@@ -1,8 +1,9 @@
 import {Metadata} from 'next'
 
 export const metadata: Metadata = {
-  title:{
-  absolute: "blog"}
+  title: {
+    absolute: "blog"
+  }
 }
 
 const Blog = () => {
